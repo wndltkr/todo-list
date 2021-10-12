@@ -1,3 +1,4 @@
-
-
-cd server
+^Z
+.
+dir
+cd todo
